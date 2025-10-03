@@ -271,7 +271,7 @@ int main() {
     srand(time(NULL));
     initBombs();
     
-    printf("=== TERMINAL PLANE GAME ===\n");
+    printf("=== C HYDROGEN BOMBS, RUN! ===\n");
     printf("Dodge the Hydrogen Bombs (&)!\n");
     printf("Difficulty increases every 10 points!\n");
     printf("Use 'a' and 'd' to move left and right\n");
